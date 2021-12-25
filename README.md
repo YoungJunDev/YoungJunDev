@@ -1,4 +1,4 @@
-#### Connect
+#### :zap:Connect
 
 <p>
   <a href="https://velog.io/@youngjun_dev" target="_blank"><img src="https://img.shields.io/badge/velog-FF5722?.svg?&style=for-the-badge&logo=Blogger&logoColor=white"/></a>
