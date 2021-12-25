@@ -7,7 +7,7 @@
   <a href="https://www.linkedin.com/in/youngjundev/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?.svg?&style=for-the-badge&logo=LinkedIn&logoColor=white"/></a>
 </p>
 
-### 👋 Hello!
+## :cat: Hello!
 
 <p>
   👋&nbsp; Hi there! I'm <b>I'm an aspiring AI developer</b> using Java and Python. 🚀<br/>
