@@ -39,6 +39,6 @@
 </p>
 
 <p>
-  ![trophy](https://github-profile-trophy.vercel.app/?username=youngjundev)
+  ![trophy](https://github-profile-trophy.vercel.app/?username=YoungjunDev)
 </p>
 
