@@ -4,8 +4,7 @@
   <a href="https://www.linkedin.com/in/youngjundev/" target="_blank"><img src="https://img.shields.io/badge/YoungjunKim-0A66C2?style=flat-square&logo=Linkedin&logoColor=white"/>
   <a href="https://velog.io/@youngjun_dev" target="_blank"><img src="https://img.shields.io/badge/velog-FF5722?.svg?&style=for-the-badge&logo=Blogger&logoColor=white"/></a>
   <a href="mailto:youngjundev96@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-EA4335?.svg?&style=for-the-badge&logo=Gmail&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/in/youngjundev/" target="_blank"><https://img.shields.io/badge/LinkedIn-0A66C2?.svg?&style=for-the-badge&logo=LinkedIn&logoColor=white/>
-  </a>
+  <a href="https://www.linkedin.com/in/youngjundev/" target="_blank"><img src=="https://img.shields.io/badge/LinkedIn-0A66C2?.svg?&style=for-the-badge&logo=LinkedIn&logoColor=white/></a>
 </p>
 
 <p>
